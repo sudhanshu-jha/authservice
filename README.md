@@ -1,4 +1,5 @@
 # Django JWT Authentication and User Registration API
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/sudhanshu-jha/authservice?utm_source=oss&utm_medium=github&utm_campaign=sudhanshu-jha%2Fauthservice&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
 ##
 This is a Django project that provides two REST APIs: one for JWT authentication and one for user registration. 
